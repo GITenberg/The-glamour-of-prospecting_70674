@@ -1,5 +1,8 @@
 _repo: The-glamour-of-prospecting_70674
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70674-h/images/cover.jpg
 creator:
   author:
     agent_name: Cornell, Frederick Carruthers
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '24958'
     url: http://www.gutenberg.org/2009/agents/24958
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70674#The-glamour-of-prospecting
 gutenberg_issued: '2023-04-30'
 identifiers:
   gutenberg: '70674'
